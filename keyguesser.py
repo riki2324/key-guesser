@@ -1,1 +1,2 @@
 print('"hi , if u are seeing this , then i wasted ur time by making you think i could guess the keys you type and/or are about to type >:3 mwehehehehe"')
+print("yooo im back with another commit , guess what ive added? thats right , i added this msg lolll.\nthis msg was also added with the commit that the msg above me was added with lol.")

@@ -1,0 +1,1 @@
+print('"hi , if u are seeing this , then i wasted ur time by making you think i could guess the keys you type and/or are about to type >:3 mwehehehehe"')
